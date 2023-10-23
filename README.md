@@ -1,2 +1,1 @@
-# repositorio
-inicio de repositorio modulo 1/2 
+Este proyecto es utilizado para aprender y poder avanzar en el mundo de la programacion paso por paso 
